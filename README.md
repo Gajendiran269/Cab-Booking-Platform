@@ -44,8 +44,7 @@ git clone https://github.com/Gajendiran269/Cab-Booking-Platform.git
 cd Cab-Booking-Platform
 
 
-###Setup frontend (react.js)
+### 1. Clone the Repository
 ```bash
-cd frontend
-npm install
-npm run dev
+git clone https://github.com/Gajendiran269/Cab-Booking-Platform.git
+cd Cab-Booking-Platform
