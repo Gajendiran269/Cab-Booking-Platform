@@ -42,3 +42,10 @@ A responsive cab booking website where users can book rides and drivers can mana
 ```bash
 git clone https://github.com/Gajendiran269/Cab-Booking-Platform.git
 cd Cab-Booking-Platform
+
+
+###Setup frontend (react.js)
+```bash
+cd frontend
+npm install
+npm run dev
