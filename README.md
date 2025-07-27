@@ -35,16 +35,3 @@ A responsive cab booking website where users can book rides and drivers can mana
 - View completed rides and earnings
 
 ---
-
-## 📦 Installation Instructions
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Gajendiran269/Cab-Booking-Platform.git
-cd Cab-Booking-Platform
-
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Gajendiran269/Cab-Booking-Platform.git
-cd Cab-Booking-Platform
